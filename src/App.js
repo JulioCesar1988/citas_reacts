@@ -45,7 +45,7 @@ if (citasIniciales) {
 
   return (
     <Fragment>
-      <h2>Administracion de citas... con GitHub  2022</h2>
+      <h2>Administracion de citas 2022 software Julito</h2>
       <div className="container">
         <div className="row">
           <div className="one-half column">
