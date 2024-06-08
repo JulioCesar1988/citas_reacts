@@ -74,7 +74,7 @@ const Formulario = ({crearCita}) => {
       )}
 
       <form onSubmit={submitCita}>
-        <label>Nombre</label>
+        <label>Nombre de mascota</label>
         <input
           type="text"
           name="mascota"
